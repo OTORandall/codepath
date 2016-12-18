@@ -12,7 +12,7 @@ Tip Calculator is a tip calculator PHP page.
 
 Submitted by: Rongfa Lu (Randall)
 
-Time spent: 8 hours spent in total
+Time spent: 10 hours spent in total
 
 ## User Stories
 
@@ -30,6 +30,7 @@ The following features are implemented:
 ## Video Walkthrough
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+http://i.imgur.com/0pMdiMB.gifv
 
 ## Notes
 
