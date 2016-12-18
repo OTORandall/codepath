@@ -17,15 +17,15 @@ Time spent: 8 hours spent in total
 ## User Stories
 
 The following functionality is complete:
-* [ ] User can enter a bill amount, choose a tip percentage, and submit the form to see the tip and total values.
-* [ ] Tip percentage choices use a PHP loop to output three radio buttons.
-* [ ] PHP code sets reasonable default values for the form.
-* [ ] PHP code confirms the presence and correct format of submitted values.
-* [ ] Page indicates any form errors which need to be fixed.
-* [ ] Submitted form values are retained when errors or results are shown.
+* [*] User can enter a bill amount, choose a tip percentage, and submit the form to see the tip and total values.
+* [*] Tip percentage choices use a PHP loop to output three radio buttons.
+* [*] PHP code sets reasonable default values for the form.
+* [*] PHP code confirms the presence and correct format of submitted values.
+* [*] Page indicates any form errors which need to be fixed.
+* [*] Submitted form values are retained when errors or results are shown.
 
 The following features are implemented:
-* [ ] Add support for splitting the tip and total
+* [*] Add support for splitting the tip and total
 
 ## Video Walkthrough
 
@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Finding the correct format for implementing the app
 
 ## License
 
